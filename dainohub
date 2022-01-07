@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noobhub1/bloxfruit/main/crackdaino"))()
+_G.SchemeColor = Color3.fromRGB(100, 175, 255)
+_G.Background = Color3.fromRGB(61, 61, 61)
+_G.Header = Color3.fromRGB(41,41, 41)
+_G.TextColor = Color3.fromRGB(255,255,255)
+getgenv().Key = 'bITkub#9765'
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noobhub1/bloxfruit/main/dainocrack"))()
